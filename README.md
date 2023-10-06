@@ -23,8 +23,8 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 ```
 /*
 To Write a Program to time series analysis and decomposition on the monthly average temperature of a city/country 
-Developed by: Praveen s
-RegisterNumber:  212222240077
+Developed by: Adhithya s
+RegisterNumber:  212222240003
 */
 import pandas as pd
 import matplotlib.pyplot as plt
